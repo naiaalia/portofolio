@@ -2687,10 +2687,10 @@ select.uk-form-width-xsmall {
  * Secondary
  */
 .uk-card-secondary {
-  background-color: #181818;
+  background-color: #163832;
   color: #ededed;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
-  border: 1px solid #4e4e4e;
+  border: 1px solid #0b2b26;
 
   border-radius: 10px;
 }
@@ -5058,7 +5058,7 @@ ul.uk-nav-sub {
 /* Container
  ========================================================================== */
 .uk-navbar-container:not(.uk-navbar-transparent) {
-  background: #171717;
+  background:#171717;
 }
 /* Groups
  ========================================================================== */
