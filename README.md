@@ -1,4 +1,4 @@
 # Portofolio Naia Fitrah Alia
 
-Referensi: [text](https://github.com/sssain/simple-portfolio)
+Referensi: [https://github.com/sssain/simple-portfolio](https://github.com/sssain/simple-portfolio)
 
